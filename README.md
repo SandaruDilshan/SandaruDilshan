@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [sandarudev](https://sandarudev.000webhostapp.com/)
+- 👨‍💻 My portfolio : [sandarudev](https://sandarudev.000webhostapp.com/)
 
 - 💬 Ask me about **HTML, CSS, Javascript, PHP**
 
